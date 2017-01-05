@@ -8,3 +8,22 @@
 html {
 	font-size:62.5%;
 }
+
+header {
+	border: 2px solid red;
+	text-align: center;
+}
+
+footer {
+	border: 2px solid;
+	position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    
+}
+
+ul {
+	list-style: none;
+	/*display: flex;*/
+}
