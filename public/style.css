@@ -15,6 +15,7 @@ header {
 }
 
 footer {
+	text-align: center;
 	border: 2px solid;
 	position: fixed;
     left: 0px;
