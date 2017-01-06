@@ -13,7 +13,8 @@ require __DIR__ . '/../lib/functions.php';
 
 // l'exemple avec le header, à vous de jouer pour le reste
 getPart('header');
+getPart('footer');
+getPart('menu');
+getContent('home');
 
-include '../parts/menu.php';
 
-include "../parts/footer.php";
